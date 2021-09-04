@@ -6,4 +6,3 @@ This is my personal customisation of several configs which are for
 - xmobar
 - alacritty
 
-The configs have been created from my own and other users' code
