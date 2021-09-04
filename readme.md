@@ -6,3 +6,4 @@ This is my personal customisation of several configs which are for
 - xmobar
 - alacritty
 - zsh
+- oh my zsh
